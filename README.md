@@ -1,10 +1,10 @@
-
-
-# AppSynergies PDF Generator
+# PDF Generator
 
 ## Overview
 
-The **AppSynergies PDF Generator** is a user-friendly Streamlit web application designed for dynamic document generation. It enables users to create and customize professional documents such as NDAs, Contracts, and Pricing Lists with ease. This tool allows for the seamless editing of Word templates and provides a one-click option to generate and download both Word and PDF formats.
+The **PDF Generator** is a user-friendly Streamlit web application designed for dynamic document generation. It enables users to create and customize professional documents such as NDAs, Contracts, and Pricing Lists with ease. This tool allows for the seamless editing of Word templates and provides a one-click option to generate and download both Word and PDF formats.
+
+This project was developed for the company **AppSynergies**.
 
 ---
 
@@ -32,8 +32,7 @@ The **AppSynergies PDF Generator** is a user-friendly Streamlit web application 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Akshara-Amirtharaj/appsynergies_pdfgenerator.git
-cd appsynergies_pdfgenerator
+git clone <your-repository-url>
 ```
 
 ### 2. Install Required Dependencies
@@ -108,5 +107,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 For questions or collaboration, feel free to reach out:
 
-- **GitHub**: [Akshara-Amirtharaj](https://github.com/Akshara-Amirtharaj)
-
+- **GitHub**: [Saravanan-Kumar-B](https://github.com/Saravanan-Kumar-B)
