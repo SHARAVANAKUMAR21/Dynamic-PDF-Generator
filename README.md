@@ -32,7 +32,7 @@ This project was developed for the company **AppSynergies**.
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/SHARAVANAKUMAR21/Dynamic-PDF-Generator.git
 ```
 
 ### 2. Install Required Dependencies
