@@ -1,0 +1,12 @@
+streamlit # 
+python-docx
+
+
+# pip install -r requirements.txt
+
+
+#create an env 
+
+# python -m venv <Name> 
+
+#html
